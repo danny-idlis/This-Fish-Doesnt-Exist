@@ -1,0 +1,5 @@
+fishDataSets/
+.idea/
+*/images/
+*/training_checkpoints
+venv
